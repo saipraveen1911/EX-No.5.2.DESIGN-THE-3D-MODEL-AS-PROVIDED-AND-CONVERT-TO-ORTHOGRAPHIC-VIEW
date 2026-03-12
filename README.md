@@ -37,6 +37,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+<img width="1918" height="1015" alt="Edm Experiment - 10  5 2" src="https://github.com/user-attachments/assets/87d77b23-c3dd-40da-99fe-4cb97e31fe3b" />
+
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
